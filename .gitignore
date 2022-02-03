@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HttpLogDataExtractor/v17
+/HttpDataExtractorUnitTests/bin/Debug
+/HttpDataExtractorUnitTests/obj/Debug
+/HttpLogDataExtractor/bin/Debug
+/HttpLogDataExtractor/obj/Debug
+/HttpLogDataExtractorDemoApp/bin/Debug
+/HttpLogDataExtractorDemoApp/obj/Debug
+/HttpLogTokeniser/bin/Debug
+/HttpLogTokeniser/obj/Debug
+/packages
