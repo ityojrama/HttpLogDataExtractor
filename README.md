@@ -11,7 +11,7 @@ NOTE: Sample log file is present in the SampleInput folder
 
 Source code:
 Consists of the following libraries:
-1. HttpLogTokeniser - For parsing the log file lines into relevant sections
+1. HttpLogTokeniser - For parsing the log file lines into relevant tokens/sections
 2. HttpLogDataExtractor - For getting the relevant information related to IP Addresses and Urls
 3. HttpDataExtractorUnitTests - For running unit tests
 4. HttpLogDataExtractorDemoApp - Minimal console based app for displaying usage
